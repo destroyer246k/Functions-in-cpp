@@ -13,7 +13,6 @@ Types of parameter passing are **Call by Value**, **Call by Reference**, and **C
 - Parameter passing is supported by value, reference, and pointers.
 - Supported for calculations, condition checks, and data manipulation.
 
-
 ## 1. Call by Value
 **Explanation:**
 In call by value, copies of the actual parameters are used to pass to the function as formal parameter. Modifications of parameters within the function will not change the original variables. It keeps the original values intact.
