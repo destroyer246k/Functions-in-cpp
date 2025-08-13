@@ -103,6 +103,7 @@ Pass array and integer reference; update array elements sequentially starting fr
 4. Display the original array.  
 5. Call the function to modify the array.  
 6. Display the updated array.  
-7. Stop.  
+7. Stop.
+8.   
 ## Conclusion
 We explored different types of functions in C++ including call by value, call by reference, call by pointer, conditional operations using functions, and passing arrays to functions. Each technique is applicable in certain situations, is efficient enough, and has some impact upon original 
