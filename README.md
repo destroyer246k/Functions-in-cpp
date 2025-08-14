@@ -68,7 +68,7 @@ Pass addresses of variables to a function, swap values using pointer dereferenci
 6. Display the modified values.
 7. There will be no change as  pass by value.    
 8. Stop.
-9. 
+   
 ## 4. Salary Increment with Conditions Using Functions
 **Explanation:**
 This program gives a salary increment according to certain conditions like projects, publications, profits, and new projects. Call by reference changes the salary in the original variable, but call by value does not.
@@ -103,6 +103,6 @@ Pass array and integer reference; update array elements sequentially starting fr
 5. Call the function to modify the array.  
 6. Display the updated array.  
 7. Stop.
-8.   
+8. 
 ## Conclusion
 We explored different types of functions in C++ including call by value, call by reference, call by pointer, conditional operations using functions, and passing arrays to functions. Each technique is applicable in certain situations, is efficient enough, and has some impact upon original 
