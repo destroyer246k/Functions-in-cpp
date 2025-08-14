@@ -1,3 +1,6 @@
+//Patel Vishwas
+//24070123072
+//A3
 #include <iostream>
 using namespace std;
 void increment_r(float &sal){
@@ -51,4 +54,5 @@ How much Profit you had earned for company? 150000
 How many New Projects you had earned? 12
 Sorry! You did not meet necessary condition for increment.
 Your Salary is: 50000
+
 */
